@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://github.com/rafa0x">🔥 Welcome</a>
 </h1>
-<p align="center">🚀 Olá bb</p>
+<p align="center">🚀</p>
 
 
 <h1 align="center">🖥️</h1>
